@@ -1,0 +1,34 @@
+
+
+body {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: 'Inconsolata';
+}
+h1 {
+  background-color: white;
+  color: black;
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 30px;
+  font-family: 'Inconsolata';
+  padding: 2px 2px 2px 2px;
+}
+h2 {
+  background-color: white;
+  color: black;
+  display: inline-block;
+  font-size: 20px;
+  padding: 2px 2px 2px 2px;
+}
+.Karl {
+  float: right;
+}
+.Harry {
+  background-color: grey;
+  float: right;
+}
+#mike {
+  color: yellow;
+}
